@@ -2,7 +2,7 @@
 Scripts I have created to solve issues I have in Unity. 
 
 ## Objects Ring
-Evenly distriubtes a set of objects around another object.
+Evenly distributes a set of objects around another object.
 ![Object Ring](/images/ObjectRing.png)
 
 1) Create an object in the in Hierarchy - Ex. an *Empty*.  
